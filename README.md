@@ -16,6 +16,7 @@ Time <pre> generally installed when a python application is downloaded </pre>
 ![snake-game-gif](https://user-images.githubusercontent.com/57084217/97773254-34261780-1b74-11eb-8bda-01a37ca6cecd.gif)
 
 ### Connect with me:
+
 [<img align="left" alt="stompingdrake | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="polok-ghosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thepolokofficial | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
